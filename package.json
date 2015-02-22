@@ -1,0 +1,29 @@
+{
+  "name": "pouchdb-errors",
+  "version": "1.0.0",
+  "description": "Binary utils used in PouchDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint -c .jshintrc index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pouchdb/errors.git"
+  },
+  "keywords": [
+    "blob",
+    "pouchdb"
+  ],
+  "author": "Nolan Lawson <nolan.lawson@gmail.com>",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/pouchdb/errors/issues"
+  },
+  "homepage": "https://github.com/pouchdb/errors",
+  "dependencies": {
+    "inherits": "~2.0.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  }
+}
