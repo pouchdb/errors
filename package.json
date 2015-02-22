@@ -1,7 +1,7 @@
 {
   "name": "pouchdb-errors",
   "version": "1.0.0",
-  "description": "Binary utils used in PouchDB",
+  "description": "Error module used by PouchDB",
   "main": "index.js",
   "scripts": {
     "test": "jshint -c .jshintrc index.js"
